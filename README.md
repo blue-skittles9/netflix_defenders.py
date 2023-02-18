@@ -1,1 +1,1 @@
-# netflix_defenders.py
+This code creates a dictionary of the Netflix Defenders heroes and how many seasons of their own show they had. Then it prints out each hero and their corresponding number of seasons in correct full-sentence format.
